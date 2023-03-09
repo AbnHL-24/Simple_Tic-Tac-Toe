@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/394081/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Tue, 24 Jan 2023 22:30:03 UTC"
+update_date: "Tue, 07 Mar 2023 00:02:45 UTC"
 stages:
 - id: 654
   step: 10475
@@ -13,10 +13,10 @@ stages:
   is_completed: true
 - id: 656
   step: 10477
-  is_completed: false
+  is_completed: true
 - id: 657
   step: 10478
-  is_completed: false
+  is_completed: true
 - id: 658
   step: 10479
   is_completed: false
@@ -41,7 +41,7 @@ topics:
     theory_id: 4388
   - title: Invoking functions
     theory_id: 4575
-  - title: Standard input
+  - title: Standard input with Java Scanner
     theory_id: 4445
   - title: String basics
     theory_id: 12553
